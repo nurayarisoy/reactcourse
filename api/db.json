@@ -665,6 +665,14 @@
       "quantityPerUnit": "@48 - 6 oz jars",
       "unitsInStock": "23",
       "id": 85
+    },
+    {
+      "productName": "\tChai\t24\t@48 - 6 oz jars\t53",
+      "categoryId": 1,
+      "unitPrice": "24",
+      "quantityPerUnit": "@48 - 6 oz jars",
+      "unitsInStock": "23",
+      "id": 86
     }
   ],
   "categories": [
