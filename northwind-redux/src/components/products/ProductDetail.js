@@ -18,7 +18,7 @@ const ProductDetail = ({ categories, product, onSave, onChange,errors }) => {
         name="categoryId"
         label="Category"
         value={product.categoryId || ""}
-        defaultOption="Seçiniz"
+        defaultOption="choose"
         options={categories.map(category => ({
           value: category.id,
           text: category.categoryName

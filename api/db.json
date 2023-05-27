@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "categoryId": 2,
+      "categoryId": 4,
       "productName": "Chai",
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": "24",
@@ -74,7 +74,7 @@
     },
     {
       "id": 11,
-      "categoryId": 4,
+      "categoryId": 5,
       "productName": "Queso Cabrales",
       "quantityPerUnit": "1 kg pkg.",
       "unitPrice": 21,
@@ -122,7 +122,7 @@
     },
     {
       "id": 17,
-      "categoryId": 6,
+      "categoryId": 7,
       "productName": "Guiza",
       "quantityPerUnit": "20 - 1 kg tins",
       "unitPrice": 39,
@@ -673,6 +673,45 @@
       "quantityPerUnit": "@48 - 6 oz jars",
       "unitsInStock": "23",
       "id": 86
+    },
+    {
+      "productName": "Sir Rodney's Scones",
+      "categoryId": 5,
+      "unitPrice": "24",
+      "quantityPerUnit": "5",
+      "unitsInStock": "3",
+      "id": 87
+    },
+    {
+      "productName": "apple",
+      "categoryId": 4,
+      "unitPrice": "24",
+      "quantityPerUnit": "5",
+      "unitsInStock": "3",
+      "id": 88
+    },
+    {
+      "productName": "Sir Rodney's Scones",
+      "categoryId": 2,
+      "unitPrice": "24",
+      "quantityPerUnit": "5",
+      "unitsInStock": "3",
+      "id": 89
+    },
+    {
+      "productName": "apple",
+      "categoryId": 1,
+      "unitPrice": "24",
+      "quantityPerUnit": "5",
+      "unitsInStock": "3",
+      "id": 90
+    },
+    {
+      "productName": "Sir Rodney's Scones",
+      "unitPrice": "24",
+      "quantityPerUnit": "5",
+      "unitsInStock": "3",
+      "id": 91
     }
   ],
   "categories": [
